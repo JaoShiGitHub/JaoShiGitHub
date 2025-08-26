@@ -1,3 +1,3 @@
 # Welcome to JaoShiGitHub
 
-### Want to know more about me? Visit [`Oshin`](https://oshin.vercel.app)
+### Want to know more about me? Visit [`OSHIN`](https://oshin.vercel.app)
